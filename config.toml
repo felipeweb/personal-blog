@@ -1,0 +1,161 @@
+#-------------------------------
+# General Site Settings
+baseURL = "https://felipeweb.dev/"
+languageCode = "en-us"
+title = "FPO"
+googleAnalytics = "UA-57220118-3" # Add your identifier. For example UA-99631805-1.
+paginate = 6
+
+
+[params]
+  logo = ""
+  description = "Felipe Paes de Oliveira personal website"
+
+
+[params.global.image]
+  enable = true
+  cover__image = "/images/cover.jpg"
+
+#-------------------------------
+# Main Menu
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/aboutme/"
+    weight = 2
+    hasChildren = true
+
+  [[menu.main]]
+    identifier = "talks"
+    name = "Talks"
+    url = "/talks/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts/"
+    weight = 4
+    hasChildren = true
+  
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "resume.pdf"
+    weight = 5
+    hasChildren = true
+
+  # Call to action button
+  [params.menu.button]
+    cta__button__text = "Get in touch"
+
+
+  #-------------------------------
+  # Author Settings
+  [params.author]
+    author__name = "Felipe Paes de Oliveira"
+    author__title = "Hello I’m Felipe Paes de Oliveira"
+    author__bio = "In this site you will find content and presentations written by me about entrepreneurship, people management, Kanban, Coaching, product management, software development, and inclusion of people with physical disabilities in the labor market."
+    author__image = "/images/my-image.jpeg"
+    author__avatar = "/images/my-image.jpeg"
+    button__text = "See my blog posts"
+
+
+  #-------------------------------
+  # Talks Settings
+  [params.talks]
+    enable = true
+    talks__title = "Latest <span class='text-span'>Talks</span>" # Add a 'text-span' class to highlight text.
+    talks__description = ""
+
+
+  #-------------------------------
+  # Testimonials Section
+  [params.testimonials]
+    enable = false
+
+  #-------------------------------
+  # Blog Section
+  [params.blog]
+    enable = true
+    blog__title = "Recent <span class='text-span'>Blog</span> Posts" # Add a 'text-span' class to highlight text.
+    blog__description = ""
+
+
+  #-------------------------------
+  # Contact Settings
+  [params.contact]
+    enable = true
+    contact__email = "fpo@felipeweb.dev" # Add your form_id
+    contact__title = "<span class='text-span'>Get</span> in touch"
+    contact__description = ""
+
+
+
+  #-------------------------------
+  # Newsletter Settings
+  [params.mailchimp]
+    enable = false
+    
+  #-------------------------------
+  # Comment Section (Disqus)
+  [params.disqus]
+    enable = true
+    disqusShortname = "felipewebcloud"
+
+
+  #-------------------------------
+  # Footer Settings
+  # Social Links
+
+  [[params.social]]
+    icon = "ion-md-mail"
+    name = "mail"
+    link = "mailto:fpo@felipeweb.dev"
+
+
+  [[params.social]]
+    icon = "ion-logo-instagram"
+    name = "Instagram"
+    link = "https://www.instagram.com/felipewebcloud/"
+
+  [[params.social]]
+    icon = "ion-logo-linkedin"
+    name = "Linkedin"
+    link = "https://www.linkedin.com/in/felipewebcloud/"
+
+  [[params.social]]
+    icon = "ion-logo-github"
+    name = "Github"
+    link = "https://github.com/felipeweb"
+
+  [[params.social]]
+    icon = "ion-logo-twitter"
+    name = "Twitter"
+    link = "https://twitter.com/_felipeweb"
+
+  [[params.social]]
+    icon = "ion-logo-facebook"
+    name = "Facebook"
+    link = "https://www.facebook.com/felipewebcloud"
+
+  # Other icons can be found at https://ionicons.com/v4/
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
