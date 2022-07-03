@@ -62,7 +62,7 @@ paginate = 6
   [params.author]
     author__name = "Felipe Paes de Oliveira"
     author__title = "Hello I’m Felipe Paes de Oliveira"
-    author__bio = "In this site you will find content and presentations written by me about entrepreneurship, people management, Kanban, Coaching, product management, software development, and inclusion of people with physical disabilities in the labor market."
+    author__bio = "In this site you will find content and presentations written by me with my opnion about entrepreneurship, people management, Kanban, Coaching, product management, software development, and inclusion of people with physical disabilities in the labor market."
     author__image = "/images/my-image.jpeg"
     author__avatar = "/images/my-image.jpeg"
     button__text = "See my blog posts"
