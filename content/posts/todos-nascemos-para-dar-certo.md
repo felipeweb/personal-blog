@@ -1,7 +1,7 @@
 ---
 date: 2022-09-01
 title: Todos nascemos para dar certo
-tags: ["Empreendedorismo", "Coaching"]
+tags: ["pt-BR", "Empreendedorismo", "Coaching"]
 image: /images/posts/certo.jpeg
 ---
 
