@@ -9,12 +9,12 @@ No final do ano passado, após 15 anos no mercado de TI e uma tentativa falha de
 
 Uma das reflexões me fez ir em busca de conhecimento sobre inteligência emocional e coaching, pois para mim um dos pilares de um bom CEO é saber vender aquilo que acredita ser bom para empresa e assim as pessoas que trabalham irão dar o máximo de si para acontecer e com isso aumentar as chances de sucesso da empresa.
 
-Durante a minha jornada de cursos no [IBC](https://www.instagram.com/joserobertomarques/) ouvi o mestre [José Roberto Marques](https://www.instagram.com/joserobertomarques/) dizer uma frase que me marcou muito. 
+Durante a minha jornada de cursos no [IBC](https://www.instagram.com/ibccoaching/) ouvi o mestre [José Roberto Marques](https://www.instagram.com/joserobertomarques/) dizer uma frase que me marcou muito. 
 
 "Todos nós nascemos para dar certo"
 
 Após alguns meses refletindo sobre isso pude perceber que ele tem razão. E eu verdadeiramente acredito nisso.
 
-Todos nós nascemos para dar certo! Isso não quer dizer que a jornada será facil, é preciso ter claro os objetivos e se desfazer de crenças limitantes e principalmente agir para dar cada dia um passo a frente.
+Todos nós nascemos para dar certo! Isso não quer dizer que a jornada será facil, é preciso ter claro os objetivos, se desfazer de crenças limitantes e principalmente agir para dar cada dia um passo a frente.
 
-Se você tem uma ideia de um app, sistema ou precisa modernizar a tecnologia da sua empresa e verdadeiramente acredita nisso, conte com a [Funccloud](https://funccloud.com) nessa jornada e até a proxima!
+Se você tem uma ideia de um app, sistema ou precisa modernizar a tecnologia da sua empresa e verdadeiramente acredita nisso, conte com a [Funccloud](https://funccloud.com) nessa jornada e até a próxima!
