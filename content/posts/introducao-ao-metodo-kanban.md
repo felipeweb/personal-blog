@@ -7,7 +7,7 @@ image: /images/posts/kanban.webp
 
 ## Sobre o método Kanban
 
-O método Kanban foi criado por David Anderson em 2005, afim fazer a gestão do fluxo de demandas da equipe a qual gerenciava na época.
+O método Kanban foi criado por David Anderson em 2005, afim de fazer a gestão do fluxo de demandas da equipe a qual gerenciava na época.
 David aplicou o modelo de cartões usados pelo sistema Toyota de produção e conceitos da teoria das restrições alinhados a uma série de princípios e práticas que nos guiam durante toda a implementação do método.
 
 ## Os princípios do método Kanban
@@ -46,4 +46,4 @@ Os benefícios colhidos pela aplicação do método em ambientes empresariais s�
 
 ## Conclusão
 
-Ficou com vontade tirar proveito dos benefícios método Kanban? Você pode experimentar o [Kanbanize](https://kanbanize.com/sign-up?referral_code=Funccloud30), o melhor software de Kanaban online na minha opnião. Caso tenham alguma dúvida ou precisem de consultoria estou a disposição. Valeu e até a proxima!!!
+Ficou com vontade tirar proveito dos benefícios do método Kanban? Você pode experimentar o [Kanbanize](https://kanbanize.com/sign-up?referral_code=Funccloud30), o melhor software de Kanban online na minha opnião. Caso tenham alguma dúvida ou precisem de consultoria estou a disposição. Valeu e até a proxima!!!
