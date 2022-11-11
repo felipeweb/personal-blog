@@ -2,7 +2,7 @@
 date: 2022-11-11
 title: Introdução ao Método Kanban
 tags: ["pt-BR", "Lean", "Kanban"]
-image: /images/posts/kanban.jpeg
+image: /images/posts/kanban.webp
 ---
 
 ## Sobre o método Kanban
