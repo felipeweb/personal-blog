@@ -46,4 +46,4 @@ Os benefícios colhidos pela aplicação do método em ambientes empresariais s�
 
 ## Conclusão
 
-Ficou com vontade tirar proveito dos benefícios do método Kanban? Você pode experimentar o [Kanbanize](https://kanbanize.com/sign-up?referral_code=Funccloud30), o melhor software de Kanban online na minha opnião. Caso tenham alguma dúvida ou precisem de consultoria estou a disposição. Valeu e até a proxima!!!
+Ficou com vontade tirar proveito dos benefícios do método Kanban? Você pode experimentar o [Kanbanize](https://kanbanize.com/pt/sign-up-pt?referral_code=Funccloud30), o melhor software de Kanban online na minha opnião. Caso tenham alguma dúvida ou precisem de consultoria estou a disposição. Valeu e até a proxima!!!
