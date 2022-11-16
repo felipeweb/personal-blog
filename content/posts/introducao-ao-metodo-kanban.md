@@ -12,7 +12,7 @@ David aplicou o modelo de cartões usados pelo sistema Toyota de produção e co
 
 ## Os princípios do método Kanban
 
-Os princípios demonstram a "maneira Kanban de pensar" são:
+Os princípios que demonstram a "maneira Kanban de pensar" são:
 
 - Começar com o que você já faz hoje;
 - Compreender os processos atuais, tal como são realmente praticados;
