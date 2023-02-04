@@ -62,7 +62,7 @@ Neste passo você irá pegar todas informações dos passos anteriores e desenha
 
 ## Socializar o design e negociar a implementação.
 
-Comece a rodar o Kanban, analise as métricas e gere engajamento e proponha melhorias, isso irá amadurecer a percepsão da empresa sobre o sistema e por consequência a satisfação do cliente.
+Comece a rodar o Kanban, analise as métricas e gere engajamento e proponha melhorias, isso irá amadurecer a percepção da empresa sobre o sistema e por consequência a satisfação do cliente.
 
 ## Conclusão
 
