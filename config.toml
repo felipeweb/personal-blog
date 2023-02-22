@@ -146,6 +146,11 @@ paginate = 6
     name = "Facebook"
     link = "https://www.facebook.com/felipewebcloud"
 
+  [[params.social]]
+    icon = "trophy"
+    name = "Mastodon"
+    link = "https://hachyderm.io/@felipeweb"
+
   # Other icons can be found at https://ionicons.com/v4/
 
 
