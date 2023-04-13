@@ -3,7 +3,7 @@ title: About Me
 ---
 
 I am Felipe Paes de Oliveira, 28, married, and physically challenged. <br>
-I love technology and people and that's why I founded [Funccloud](https://funccloud.com), an IT consultancy whose mission is to help they thrive through technology.<br>
+I love technology and people and that's why I founded [Funccloud](https://funccloud.com), an IT consultancy whose mission is to help our clients thrive through technology.<br>
 In my spare time I love spending time with my family, going out to restaurants and learning new things.<br>
 My life mission is to inspire and motivate people with my story by provoking motivation and overcoming and being happy with the prosperity of others. <br>
 To live intensely all my roles in life always with joy and God's guidance. <br>
